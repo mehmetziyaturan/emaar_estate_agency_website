@@ -8,7 +8,7 @@ As the screen size changes, the site content and navigation menu adapt to these 
 <ul>
 	<li>HTML: Used to create the page structure.</li>
 	<li>CSS: Used for styling and responsive design.</li>
-  <li>BOOTSTRAP: Tool that allows to create a good looking website.</li>
+ 	<li>BOOTSTRAP: Tool that allows to create a good looking website.</li>
 </ul>
 
 # Preview:
